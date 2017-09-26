@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     ImageView qr_code;
     Button but_scanner;
     TextView tv_hasil;
-    //String text_Qr;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
